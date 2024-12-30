@@ -1,7 +1,6 @@
 # NAME:MANIMARAN V
 # REG.NO:24008541
-# EXPERIMENT 10:SERIAL IN SERIAL OUT SHIFTREGISTER
-
+# EXPERIMENT 10:IMPLEMENTATION OF SHIFT REGISTER USING VERILOG
 # AIM:
 
 To implement  SISO Shift Register using verilog and validating their functionality using their functional tables
